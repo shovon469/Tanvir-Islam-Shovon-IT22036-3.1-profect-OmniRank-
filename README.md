@@ -61,7 +61,7 @@ OmniRank follows the **Model-View-Controller (MVC)** architectural pattern:
 
 | **Unified Dashboard** | **Detailed Analytics** |
 |:---:|:---:|
-| ![Dashboard]() | ![Analytics](path/to/analytics-image.png) |
+| ![Dashboard]() | ![Analytics](assets/Dashboard.png) |
 
 | **AI Recommendation** | **Dark Mode Login** |
 |:---:|:---:|
