@@ -61,7 +61,7 @@ OmniRank follows the **Model-View-Controller (MVC)** architectural pattern:
 
 | **Unified Dashboard** | **Detailed Analytics** |
 |:---:|:---:|
-| ![Dashboard](path/to/dashboard-image.png) | ![Analytics](path/to/analytics-image.png) |
+| ![Dashboard]() | ![Analytics](path/to/analytics-image.png) |
 
 | **AI Recommendation** | **Dark Mode Login** |
 |:---:|:---:|
@@ -126,7 +126,7 @@ Follow these steps to set up the project locally.
 **Project Team (MBSTU - ICT Dept):**
 * **Rahat Bin Hafiz** (ID: IT22034) - *Lead Developer & Backend*
    * 📞 Contact: (+880) 1521-700491
-   * 📧 Email: [Your Email Here]
+   * 📧 Email: rahatbinhafiz40@gmail.com
 * **Shourav Mallik** (ID: IT22032) - *Frontend & UI/UX*
 * **Md. Tanvir Islam Shovon** (ID: IT22036) - *Database & Documentation*
 
