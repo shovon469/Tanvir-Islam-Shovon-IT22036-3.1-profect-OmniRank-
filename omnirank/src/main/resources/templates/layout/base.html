@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org" th:fragment="layout(content)">
+<head>
+    <title>OmniRank</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body class="antialiased flex min-h-screen">
+
+<div th:replace="~{fragments/sidebar :: sidebar}"></div>
+
+<main class="flex-1 p-8 ml-64 overflow-y-auto">
+    <div th:replace="${content}"></div>
+</main>
+
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script src="/js/dashboard.js"></script>
+</body>
+</html>
